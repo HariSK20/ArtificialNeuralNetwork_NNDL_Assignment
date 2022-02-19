@@ -2,8 +2,11 @@
 
 A Neural Network designed on MNIST dataset.
 
-Requirements: 
+### Requirements: 
+
   Keras ( to load dataset )
+
   numpy
+  
   matplotlib
   
